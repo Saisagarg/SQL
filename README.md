@@ -1,2 +1,2 @@
 # SQL
-from beignner to advance
+From Beignner to Advance
